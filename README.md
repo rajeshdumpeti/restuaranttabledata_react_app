@@ -1,1 +1,1 @@
-# Restuarant Table Data react App
+# List of Restuarants
